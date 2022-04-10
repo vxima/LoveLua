@@ -1,0 +1,1 @@
+print("Isso é um começo de um projeto de jogo!")
